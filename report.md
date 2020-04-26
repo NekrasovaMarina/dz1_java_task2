@@ -25,9 +25,10 @@
 * баг-репорт 6
 * отчёт о тестировании
 
-В качестве тестовых данных использовались данные <указать источник, откуда брались тестовые данные>:
+В качестве тестовых данных использовались данные:
 * данные: https://www.freeformatter.com/credit-card-number-generator-validator.html
 * ожидаемый результат: 
+
 "C:\Program Files\AdoptOpenJDK\jdk-11.0.7.10-hotspot\bin\java.exe" -javaagent:C:\Users\snezhinka\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\201.6668.121\lib\idea_rt.jar=51431:C:\Users\snezhinka\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\201.6668.121\bin -Dfile.encoding=UTF-8 -classpath C:\Users\snezhinka\IdeaProjects\untitled\out\production\untitled Main
 Result is OK
 
